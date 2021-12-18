@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://c.tenor.com/5Beb0m1Ip9wAAAAC/waifu-anime.gif" alt="nz" width="350"/>
+<img src="https://i.pinimg.com/originals/a5/65/d6/a565d6e129242aff368eafad54a92360.jpg" alt="nz" width="350"/>
 </p>
 
 ## Nesyaa-Md
@@ -52,9 +52,10 @@ SCAN THE QR USING YOUR WHATSAPP!
 
 ---
 
-| Function |  Availability |
+| Features |  Availability |
 | :------: |  :----------: |
-|   YY     |       YY      |
+|   Islami     |       Y      |
+|   Downloader     |       Y      |
 
 
 ## Thanks to
