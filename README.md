@@ -2,6 +2,10 @@
 <img src="https://i.pinimg.com/originals/a5/65/d6/a565d6e129242aff368eafad54a92360.jpg" alt="nz" width="350"/>
 </p>
 
+## NOT MAINTAINED
+
+<b>This repo is no longer maintained. Documentation for the latest version can be found [here](https://github.com/zhwzein/Killua-Zoldyck).</b>
+
 ## Nesyaa-Md
 > Example case from my Rest APIs for WhatsApp Bot,
 > by using baileys multi-devices.
@@ -56,12 +60,3 @@ SCAN THE QR USING YOUR WHATSAPP!
 | :------: |  :----------: |
 |   Islami     |       Y      |
 |   Downloader     |       Y      |
-
-
-## Thanks to
-
-  [`Baileys`](https://github.com/adiwajshing/Baileys)
-
-<p align="center">
-# This project will be updated as soon as possible
-</p>
