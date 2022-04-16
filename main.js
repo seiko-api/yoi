@@ -8,7 +8,7 @@ const {
 	default: makeWASocket,
 	DisconnectReason,
 	useSingleFileAuthState
-} = require('@adiwajshing/baileys-md');
+} = require('@adiwajshing/baileys');
 
 const { state, saveState } = useSingleFileAuthState('./nesya.json');
 const { color, mylogs } = require('./lib/color');
