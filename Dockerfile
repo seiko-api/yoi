@@ -7,10 +7,6 @@ RUN apt-get update && \
   webp && \
   apt-get upgrade -y && \
 
-COPY package.json .
-
 RUN npm install
-
-COPY . .
 
 CMD ["node index.js"]
