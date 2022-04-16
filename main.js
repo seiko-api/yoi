@@ -10,7 +10,7 @@ const {
 	useSingleFileAuthState
 } = require('@adiwajshing/baileys');
 
-const { state, saveState } = useSingleFileAuthState('./nesya.json');
+const { state, saveState } = useSingleFileAuthState('./session.json');
 const { color, mylogs } = require('./lib/color');
 const pino = require('pino');
 const fs = require('fs');
