@@ -8,7 +8,7 @@ const {
     downloadContentFromMessage, 
     generateWAMessageFromContent,
     proto,
-} = require("@adiwajshing/baileys-md");
+} = require("@adiwajshing/baileys");
 
 const fs = require('fs')
 const { spawn, exec } = require("child_process")
